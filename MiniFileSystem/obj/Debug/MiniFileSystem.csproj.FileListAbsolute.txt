@@ -1,0 +1,8 @@
+c:\users\shdutt\documents\visual studio 2015\Projects\MiniFileSystem\MiniFileSystem\bin\Debug\MiniFileSystem.exe.config
+c:\users\shdutt\documents\visual studio 2015\Projects\MiniFileSystem\MiniFileSystem\obj\Debug\MiniFileSystem.csprojResolveAssemblyReference.cache
+c:\users\shdutt\documents\visual studio 2015\Projects\MiniFileSystem\MiniFileSystem\bin\Debug\MiniFileSystem.exe
+c:\users\shdutt\documents\visual studio 2015\Projects\MiniFileSystem\MiniFileSystem\bin\Debug\MiniFileSystem.pdb
+c:\users\shdutt\documents\visual studio 2015\Projects\MiniFileSystem\MiniFileSystem\obj\Debug\MiniFileSystem.exe
+c:\users\shdutt\documents\visual studio 2015\Projects\MiniFileSystem\MiniFileSystem\obj\Debug\MiniFileSystem.pdb
+C:\Users\shdutt\documents\visual studio 2015\Projects\MiniFileSystem\MiniFileSystem\bin\Debug\MiniFileSystem.exe.CodeAnalysisLog.xml
+C:\Users\shdutt\documents\visual studio 2015\Projects\MiniFileSystem\MiniFileSystem\bin\Debug\MiniFileSystem.exe.lastcodeanalysissucceeded
